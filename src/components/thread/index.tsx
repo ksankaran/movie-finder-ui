@@ -481,7 +481,7 @@ export function Thread() {
                       />
 
                       <div className="flex items-center gap-6 p-2 pt-4">
-                        <div className="">
+                        <div className="hidden">
                           <div className="flex items-center space-x-2">
                             <Switch
                               id="render-tool-calls"
